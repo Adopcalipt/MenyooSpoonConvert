@@ -1,0 +1,12 @@
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\bin\Debug\MenyooSpoonConvert.exe.config
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\bin\Debug\MenyooSpoonConvert.exe
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\bin\Debug\MenyooSpoonConvert.pdb
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.Form1.resources
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.Properties.Resources.resources
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.csproj.GenerateResource.cache
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.csproj.CoreCompileInputs.cache
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.exe
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.pdb
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.Form2.resources
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.csproj.AssemblyReference.cache
+C:\Users\Ado\source\repos\MenyooSpoonConvert\MenyooSpoonConvert\obj\Debug\MenyooSpoonConvert.csproj.SuggestedBindingRedirects.cache
